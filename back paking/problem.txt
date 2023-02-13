@@ -1,0 +1,7 @@
+Problème 2 – Sac à dos
+L’objectif est de remplir un sac à dos de telle sorte à maximiser la valeur des objets inclus tout en respectant la
+contrainte du volume du sac : il faut choisir les objets à emporter de façon à avoir un sac le plus "utile" possible, tout
+en respectant son volume.
+Les datasets que vous allez utiliser sont : P04 (7 objets), P07 (15 objets) et P08 (24 objets). Ils sont disponibles dans
+le lien suivant :
+https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html
